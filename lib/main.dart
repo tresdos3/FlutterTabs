@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text('App Tabs'),
+        title: new Text('App Tabs Demo'),
         backgroundColor: Colors.teal,
         bottom: new TabBar(
           controller: tabController,
