@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
           tabs: <Widget>[
             new Tab(icon: new Icon(Icons.home),),
             new Tab(icon: new Icon(Icons.account_circle),),
-            new Tab(icon: new Icon(Icons.add_alert),)
+            new Tab(icon: new Icon(Icons.add_a_photo),)
           ],
         ),
       ),
